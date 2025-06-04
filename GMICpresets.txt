@@ -1,0 +1,33 @@
+25% size (xy), convert to 16c, RGB, then
+
+inpainting (holes) preset 1N:
+94.51
+84.66
+Low
+
+1E/S:
+67.94
+41.57
+High
+
+1W:
+15.31
+50.24
+Low
+
+1Wx1:
+43.41
+58.14
+High
+
+1Wx2/3:
+114.95
+59.93
+Low
+
+1Wx4:
+168.61
+49.47
+High
+
+then convert to 8c
