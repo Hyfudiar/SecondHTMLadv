@@ -6,6 +6,18 @@
 .pixelated {
   image-rendering: pixelated;
 }
-a:hover {
+.leftdir:hover {
+  cursor: nw-resize;
+}
+.rightdir:hover {
+  cursor: ne-resize;
+}
+.forward:hover {
+  cursor: cell;
+}
+.inspect:hover {
   cursor: zoom-in;
+}
+.backout:hover {
+  cursor: zoom-out;
 }
