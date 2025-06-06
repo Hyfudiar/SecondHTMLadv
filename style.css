@@ -2,6 +2,17 @@ body {
   background-color: black;
 }
 
+input[type=submit] {
+  background-color: black;
+  width: 10px;
+}
+
+#pw1 {
+  position: absolute;
+  top: 60%;
+  left: 40%;
+}
+
 .parent {
   position: relative;
   top: 0;
