@@ -3,8 +3,9 @@ body {
 }
 
 input[type=submit] {
-  background-color: black;
-  width: 10px;
+  background-color: #444444;
+  text-emphasis-color: white;
+  width: 30px;
 }
 
 #pw1 {
